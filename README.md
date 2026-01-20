@@ -86,7 +86,7 @@ Esses pontos representam **hipóteses analíticas**, que podem ser testadas e va
 
 O estudo detalhado, com gráficos, interpretação dos resultados e contexto analítico, está disponível no artigo publicado no LinkedIn:
 
-👉 *(adicione aqui o link do artigo quando publicar)*
+👉 https://www.linkedin.com/pulse/an%C3%A1lise-operacional-e-financeira-em-um-pronto-socorro-jo%C3%A3o-neto-99yge/?trackingId=zDP%2BuYhICREim7uKMgGWfg%3D%3D
 
 ---
 
